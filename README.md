@@ -2,7 +2,8 @@
 
 Projet réalisé dans le cadre de l'UE **CPA — Algorithmique d'essaims** à Sorbonne Université (2025–2026).
 
-**Équipe :** Chen · Fallavier · Tang  
+**Équipe :** Chen · Fallavier · Tang 
+**Auteur :** CHEN Florent 21101813
 **Encadrant :** Binh-Minh Bui-Xuan
 
 ---
